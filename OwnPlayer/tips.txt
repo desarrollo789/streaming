@@ -1,0 +1,12 @@
+<a href="http://192.168.1.3/WebSites/OwnPlayer/seasonvideos/shakugan%20no%20shana.php">                                
+	<table style="margin-left: 31%; margin-right: auto; display: block;">
+		<tr>
+			<th>
+				<image style="background-color: #4f4b66;" height="250" src="http://192.168.1.6/animes/Shakugan%20no%20Shana/title.png">
+			</th>
+			<th>
+				<image class="elemetlinkimage" src="http://192.168.1.6/animes/Shakugan%20no%20Shana/Shakugan%20no%20Shana%20Cover.jpg">
+			</th>
+		</tr>
+	</table>
+</a>

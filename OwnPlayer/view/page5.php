@@ -3,10 +3,12 @@
 ?>
 <body>
         <div align="center">
-        <a href="http://192.168.1.3/WebSites/OwnPlayer/Index.php">
-            <img src="../images/icons/home-icon.png" style="max-width: 100; position: absolute; top: 0; left: 0;">
-        </a>
-            <img src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/title.png"> 
+            <form action="Index.php" method="post">
+            	<button type="submit" name="sentpage" value="page0" style="border:none;">        		
+            		<img src="images/icons/home-icon.png" style="max-width: 100; position: absolute; top: 0; left: 0;">
+            	</button>                                                                                                
+            </form>        
+            <img src="http://192.168.1.6/animes/Kotoura-san/title.png"> 
         </div>
 
     <div class="glass">
@@ -16,7 +18,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:1</h4>         
                         <video aling="center" width="520" height="250" controls>                    
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2001%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2001.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -25,7 +27,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:2</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2002%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2002.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -34,7 +36,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:3</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2003%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2003.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -45,7 +47,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:4</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2004%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2004.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -54,7 +56,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:5</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2005%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2005.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -63,7 +65,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:6</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2006%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2006.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -74,7 +76,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:7</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2007%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2007.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -83,7 +85,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:8</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2008%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2008.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -92,7 +94,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:9</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2009%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2009.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -103,7 +105,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:10</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2010%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2010.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -112,7 +114,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:11</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2011%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2011.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -121,7 +123,7 @@
                     <div class="container">
                         <h4>Capitulo NRO:12</h4>
                         <video width="520" height="250" controls>
-                            <source src="http://192.168.1.6/animes/Seiken%20no%20Blacksmith/SnB%2012%20%5bwww.animemf.net%5d%20Seba_767.mp4" type="video/mp4">
+                            <source src="http://192.168.1.6/animes/Kotoura-san/By%20%5bAnime4mega.net%5d%20K0tr-S%20%5bBD%5d%20-%2012.mp4" type="video/mp4">
                             Tu navegador no soporta los vídeos de HTML5
                         </video>
                     </div>
@@ -133,12 +135,12 @@
 
 <style>
     body {
-    background-image: url("http://192.168.1.6/animes/Seiken%20no%20Blacksmith/Seiken%20no%20Blacksmith%20Episode.jpg"),
-    url("http://192.168.1.6/animes/Seiken%20no%20Blacksmith/glass.jpg");
-    background-repeat: no-repeat, repeat;
+    background-image: url("http://192.168.1.6/animes/Kotoura-san/Kotoura-san%20Episode2.png"),
+    url("http://192.168.1.6/animes/Kotoura-san/glass2.jpg"), url("http://192.168.1.6/animes/Kotoura-san/glass.jpg");
+    background-repeat: no-repeat, space, repeat;
     background-color: #cccccc;
     background-position: center top;
-    background-size: 100%, 390px;
+    background-size: 55%, 200px, 200px;
     }
     h4 {
         margin-left: 8%;
@@ -148,5 +150,11 @@
         width: 320;
         color: #ab5528;
         /* background-color: black; */
-    }    
+    }
+    .glass {
+        background-image: url("http://192.168.1.6/animes/Kotoura-san/glass.jpg");
+        background-repeat: repeat;
+        background-color: #cccccc;
+        background-size: 200px;
+    }
 </style>

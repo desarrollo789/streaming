@@ -1,11 +1,10 @@
-<?php
-    // echo "php esta corriendo";
-?>
 <body>
     <div align="center">
-    <a href="http://192.168.1.3/WebSites/OwnPlayer/Index.php">
-        <img src="../images/icons/home-icon.png" style="max-width: 100; position: absolute; top: 0; left: 0;">
-    </a>
+    	<form action="Index.php" method="post">
+        	<button type="submit" name="sentpage" value="page0" style="border:none;">        		
+        		<img src="images/icons/home-icon.png" style="max-width: 100; position: absolute; top: 0; left: 0;">
+        	</button>                                                                                                
+        </form>
         <img src="http://192.168.1.6/animes/Choobits/title.png" style="width: 600px">
     </div>
 

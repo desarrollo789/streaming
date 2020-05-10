@@ -1,11 +1,10 @@
-<?php
-    // echo "php esta corriendo";
-?>
 <body>
     <div align="center">
-    <a href="http://192.168.1.3/WebSites/OwnPlayer/Index.php">
-        <img src="../images/icons/home-icon.png" style="max-width: 100; position: absolute; top: 0; left: 0; background-color: #4f4b66;">
-    </a>
+    	<form action="Index.php" method="post">
+        	<button type="submit" name="sentpage" value="page0" style="border:none;">        		
+        		<img src="images/icons/home-icon.png" style="max-width: 100; position: absolute; top: 0; left: 0; background-color: #4f4b66;">
+        	</button>                                                                                                
+        </form>    
         <img align="left" style="margin-left: 20%;" width="200" src="http://192.168.1.6/animes/Shakugan%20no%20Shana/title.png"> 
     </div>
 
